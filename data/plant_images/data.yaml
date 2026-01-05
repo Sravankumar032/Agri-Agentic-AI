@@ -1,0 +1,10 @@
+path: data/plant_images
+
+train: train/images
+val: valid/images
+
+nc: 3
+names:
+  0: healthy
+  1: leaf_blight
+  2: leaf_spot
